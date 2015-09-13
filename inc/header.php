@@ -11,7 +11,7 @@
 
 		<div class="wrapper">
 
-			<h1 class="branding-title"><a href="./">Shirts 4 Mike</a></h1>
+			<h1 class="branding-title"><a href="./"><img class="hero" src="img/logo.png" alt="Pulpypapaya"><a></h1>
 
 			<ul class="nav">
 				<li class="shirts <?php if ($section == "shirts") { echo "on"; } ?>"><a href="shirts.php">Shirts</a></li>

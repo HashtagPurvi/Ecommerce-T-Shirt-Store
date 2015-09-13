@@ -5,11 +5,11 @@
 		<div class="wrapper">
 
 			<ul>		
-				<li><a href="http://twitter.com/treehouse">Twitter</a></li>
-				<li><a href="https://www.facebook.com/TeamTreehouse">Facebook</a></li>
+				<li><a href="http://twitter.com/pulpypapaya" target="_blank">Twitter</a></li>
+				<li><a href="https://www.facebook.com/pulpypapayastore" target="_blank">Facebook</a></li>
 			</ul>
 
-			<p>&copy;<?php echo date('Y'); ?> Shirts 4 Mike</p>
+			<p>&copy;<?php echo date('Y'); ?> PulpyPapaya</p>
 
 		</div>
 	
