@@ -6,7 +6,8 @@ include("products.php");
 ?>
 <div class="section banner">
 	<div class="wrapper">
-		</div>
+
+	</div>
 </div>
 
 <div class="section shirts latest">

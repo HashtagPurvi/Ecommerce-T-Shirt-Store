@@ -6,7 +6,7 @@
 			"price"=>11,
 			"img" =>"img/shirts/shirt-101.jpg",
 			"paypal"=>"Ur Paypal Product Id"
-		);
+			);
 	$shirts[1] = array(
 
 			"name"=> "shirt 2",
@@ -42,7 +42,6 @@
 			"img" =>"img/shirts/shirt-106.jpg",
 			"paypal"=>"Ur Paypal Product Id"
 		);
-
 	$shirts[6] = array(
 
 			"name"=> "shirt 4",
